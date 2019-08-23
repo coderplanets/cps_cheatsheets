@@ -1,6 +1,6 @@
-# JS代码段
-
 ## 点击空白处隐藏弹窗
+
+{{ ::cards-header:: }}
 
 ```js
 $(document).mouseup(function(e){
@@ -11,3 +11,4 @@ $(document).mouseup(function(e){
 });
 ```
 
+{{ ::cards-header:: }}
